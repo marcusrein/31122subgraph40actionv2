@@ -1,4 +1,5 @@
 specVersion: 0.0.2
+description: Combining GRT and Balancer awareness to award AwesomeBadge and SuperBadge to actions.
 schema:
     file: ./schema.graphql
 dataSources:
